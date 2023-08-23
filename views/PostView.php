@@ -9,6 +9,7 @@
 <h1>List of Post</h1>
 
 <ul>
+    <li>DM sao đéo hiện</li>
     <?php foreach ($data as $post): ?>
         <li>
             Name: <?php print_r($post); ?><br>
